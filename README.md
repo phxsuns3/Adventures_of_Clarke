@@ -7,7 +7,7 @@ Team Lead: Aaron
 
 ### Team Members: Danica, AAron, Jackson, Daniel, Arjola, Francesca, Autumn.
 
-Backlog:
+Backlog: Art
 
 Working:
 
