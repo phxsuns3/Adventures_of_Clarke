@@ -3,4 +3,6 @@ Repo: Adventures_of_Clarke
 
 # Mario with clarke abominations
 
+Team Lead: Aaron
+
 ### Team Members: Danica, AAron, Jackson, Daniel, Arjola, Francesca, Autumn.
