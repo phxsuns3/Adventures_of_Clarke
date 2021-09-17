@@ -6,3 +6,11 @@ Repo: Adventures_of_Clarke
 Team Lead: Aaron
 
 ### Team Members: Danica, AAron, Jackson, Daniel, Arjola, Francesca, Autumn.
+
+Backlog:
+
+Working:
+
+Blocked:
+
+Done:
