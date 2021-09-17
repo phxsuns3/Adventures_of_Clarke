@@ -5,9 +5,9 @@ Repo: Adventures_of_Clarke
 
 Team Lead: Aaron
 
-### Team Members: Danica, AAron, Jackson, Daniel, Arjola, Francesca, Autumn.
+### Team Members: Danica, AAron, Jackson, Daniel, Arjola, Francesca, Autumn, Kyle.
 
-Backlog: Art
+Backlog: Art - Francesca, Arjola : Code -  Daniel : Story - Autumn, Aaron : Level design -Deacon, Kyle, : Characters - Dannica : 
 
 Working:
 
