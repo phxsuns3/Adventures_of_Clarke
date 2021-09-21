@@ -7,7 +7,7 @@ Team Lead: Aaron
 
 ### Team Members: Danica, AAron, Jackson, Daniel, Arjola, Francesca, Autumn, Kyle.
 
-Backlog: Art - Francesca, Arjola, Danica | Code -  Daniel | Story - Autumn, Aaron | Level design - Deacon, Kyle
+Backlog: Art - Francesca, Arjola, Danica | Code -  Daniel, Deacon | Story - Autumn, Aaron | Level design - Kyle
 
 Working: Sprite - Marathon Clarke: Art | Clarke Coin - Art | Jump Code: Code
 
