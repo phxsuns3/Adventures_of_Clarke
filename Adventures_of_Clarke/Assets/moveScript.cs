@@ -5,8 +5,8 @@ using UnityEngine;
 
 public class moveScript : MonoBehaviour
 {
-    private float MovementSpeed = 12;
-    private float JumpForce = 70;
+    public float MovementSpeed = 12;
+    public float JumpForce = 70;
 
     private Rigidbody2D _rigidbody;
     private void Start()
