@@ -5,29 +5,25 @@ using UnityEngine;
 
 public class moveScript : MonoBehaviour
 {
-    private Rigidbody2D rb;
-    private float moveSpeed;
-    private float dirx, dirz;
-    // Start is called before the first frame update
-    void Start()
-    {
-        moveSpeed = 10f;
-        rb = GetComponent<Rigidbody2D>();
-    }
+    private float MovementSpeed = 12;
+    private float JumpForce = 70;
 
-    // Update is called once per frame
+    private Rigidbody2D _rigidbody;
+    private void Start()
+    {
+        _rigidbody = GetComponent<Rigidbody2D>();
+    }
     void Update()
     {
-        dirx = Input.GetAxis("Horizontal") * moveSpeed;
-        //Get the value of the Horizontal input axis.
+        var movement = Input.GetAxis("Horizontal");
+        transform.position += new Vector3(movement, 0, 0) * Time.deltaTime * MovementSpeed;
 
-        dirz = Input.GetAxis("Vertical") * moveSpeed;
-        //Get the value of the Vertical input axis.
+        if (!Mathf.Approximately(0, movement))
+            transform.rotation = movement < 0 ? Quaternion.Euler(0, 180, 0) : Quaternion.identity;
 
-
-    }
-    private void FixedUpdate()
-    {
-        rb.velocity = new Vector3(dirx, rb.velocity.y, dirz);
+        if (Input.GetButtonDown("Jump") && Mathf.Abs(_rigidbody.velocity.y) < 0.001f)
+        {
+            _rigidbody.AddForce(new Vector2(0, JumpForce), ForceMode2D.Impulse);
+        }
     }
 }
