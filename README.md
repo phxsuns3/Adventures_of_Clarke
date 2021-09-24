@@ -9,8 +9,8 @@ Team Lead: Aaron
 
 Backlog: Art - Francesca, Arjola, Danica, Autumn | Code -  Daniel, Deacon | Story - Aaron | Level design - Kyle
 
-Working: Jump Code: Code | Background: Art | Ground: Art
+Working: Coin Interaction Code: Code | Background: Art | Level Design - Level Design
 
-Blocked: Level Design, waiting for background and ground - Level Design
+Blocked: 
 
-Done: Losing our sanity | Sprite - Marathon Clarke | Clarke Coin
+Done: Losing our sanity | Sprite - Marathon Clarke | Clarke Coin | Jump Code | Ground
