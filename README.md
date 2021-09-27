@@ -9,7 +9,7 @@ Team Lead: Aaron
 
 Backlog: Art - Francesca, Arjola, Autumn | Code -  Daniel | Story - Aaron | Level design - Kyle, Deacon | Character Design - Danica
 
-Working: Coin Interaction Code: Code | Background: Art | Level Design - Level Design | Water level Characters - Character Design | Level Switch - Code | Camera - Aaron
+Working: Coin Interaction Code: Code | Background: Art | Level Design - Level Design | Water level Characters - Character Design | Level Switch - Code | Camera - Aaron | Update Background - Francesca
 
 Blocked: 
 
