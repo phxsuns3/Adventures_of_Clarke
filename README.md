@@ -7,9 +7,9 @@ Team Lead: Aaron
 
 ### Team Members: Danica, AAron, Jackson, Daniel, Arjola, Francesca, Autumn, Kyle.
 
-Backlog: Art - Francesca, Arjola, Danica, Autumn | Code -  Daniel, Deacon | Story - Aaron | Level design - Kyle
+Backlog: Art - Francesca, Arjola, Autumn | Code -  Daniel, Deacon | Story - Aaron | Level design - Kyle | Character Design - Danica
 
-Working: Coin Interaction Code: Code | Background: Art | Level Design - Level Design
+Working: Coin Interaction Code: Code | Background: Art | Level Design - Level Design | Water level Characters - Character Design | Level Switch - Code | Camera - Aaron
 
 Blocked: 
 
