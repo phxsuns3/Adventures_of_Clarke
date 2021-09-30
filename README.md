@@ -13,4 +13,5 @@ Working: Level Switch(Maybe) - Code | Camera - Aaron | Update Background - Franc
 
 Blocked: 
 
-Done: Losing our sanity | Sprite - Marathon Clarke | Clarke Coin | Jump Code | Ground | Water Level and Space Level Characters | Continuing to want to quit | Coin Interaction Code | Hitting our heads against the desk
+Done: Losing our sanity | Sprite - Marathon Clarke | Clarke Coin | Jump Code | Ground | Water Level and Space Level Characters | Continuing to want to quit | Coin Interaction Code | Hitting our heads against 
+the desk
