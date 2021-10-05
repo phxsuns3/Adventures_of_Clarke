@@ -9,9 +9,9 @@ Team Lead: Aaron
 
 Backlog: Art - Francesca, Arjola, Autumn | Code -  Daniel | Story - Aaron | Level design - Kyle | Character Design - Danica | Bug Finding - Deacon
 
-Working: Level Switch(Maybe) - Code | Camera - Aaron | Update Background - Francesca | Bug finding | Level Design
+Working: Camera - Aaron | Update Background - Francesca | Bug finding - Deacon | Level Design - Kyle | Image imports - art
 
 Blocked: 
 
 Done: Losing our sanity | Sprite - Marathon Clarke | Clarke Coin | Jump Code | Ground | Water Level and Space Level Characters | Continuing to want to quit | Coin Interaction Code | Hitting our heads against 
-the desk
+the desk | Ground Level Collisions
