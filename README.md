@@ -9,9 +9,9 @@ Team Lead: Aaron
 
 Backlog: Art - Francesca, Arjola, Autumn | Code -  Daniel | Story - Aaron | Level design - Kyle | Character Design - Danica | Bug Finding - Deacon
 
-Working: Camera - Aaron | Update Background - Francesca | Bug finding - Deacon | Level Design - Kyle | Image imports - art | Cave and Dirt Picture Creation - Art
+Working: Camera - Aaron | Update Background - Francesca | Main Menu - Deacon | Level Design - Kyle | Image imports - art | Cave and Dirt Picture Creation - Art
 
 Blocked: 
 
 Done: Losing our sanity | Sprite - Marathon Clarke | Clarke Coin | Jump Code | Ground | Water Level and Space Level Characters | Continuing to want to quit | Coin Interaction Code | Hitting our heads and fists against 
-the desk | Ground Level Collisions | Chilling in the hospital | Making walls invisible
+the desk | Ground Level Collisions | Chilling in the hospital | Making walls invisible | Yelling at the subordinates | Grieving that cool math games is blocked | RIP Run 3
