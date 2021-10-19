@@ -9,7 +9,7 @@ Team Lead: Aaron
 
 Backlog: Art - Francesca, Arjola, Autumn | Code -  Daniel | Story - Aaron | Level design - Kyle | Character Design - Danica | Bug Finding - Deacon
 
-Working: Camera - Aaron | Update Background - Francesca | Main Menu - Deacon | Level Design - Kyle | Image imports - art | Cave and Dirt Picture Creation - Art
+Working: Camera - Aaron | Update Background - Francesca | Main Menu - Deacon | Level Design - Kyle | Image imports - art | Water Cave Picture Creation - Art
 
 Blocked: 
 
