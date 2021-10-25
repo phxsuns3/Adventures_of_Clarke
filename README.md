@@ -5,13 +5,13 @@ Repo: Adventures_of_Clarke
 
 Team Lead: Aaron
 
-### Team Members: Danica, AAron, Jackson, Daniel, Arjola, Francesca, Autumn, Kyle, Deacon.
+### Team Members: Danica, AAron, Daniel, Arjola, Francesca, Autumn, Kyle, Deacon.
 
-Backlog: Art - Francesca, Arjola, Autumn | Code -  Daniel | Story - Aaron | Level design - Kyle | Character Design - Danica | Bug Finding - Deacon
+Backlog: Art - Francesca, Arjola, Autumn | Code -  Daniel | Story - Aaron | Level design - Kyle | Character Design - Danica | Bug Finding - Deacon | Help with whoever needs it - Aaron
 
-Working: Camera - Aaron | Update Background - Francesca | Main Menu - Deacon | Level Design - Kyle | Image imports - art | Water Cave Picture Creation - Art
+Working: Main Menu - Deacon | Coin collection code - Daniel
 
-Blocked: 
+Blocked: Camera - Aaron | Update Background - Francesca | Image imports - art | Level Design - Kyle
 
 Done: Losing our sanity | Sprite - Marathon Clarke | Clarke Coin | Jump Code | Ground | Water Level and Space Level Characters | Continuing to want to quit | Coin Interaction Code | Hitting our heads and fists against 
-the desk | Ground Level Collisions | Chilling in the hospital | Making walls invisible | Yelling at the subordinates | Grieving that cool math games is blocked | RIP Run 3
+the desk | Ground Level Collisions | Chilling in the hospital | Making walls invisible | Yelling at the subordinates | Grieving that cool math games is blocked | RIP Run 3 | Water Cave Picture Creation
