@@ -11,7 +11,7 @@ public class MainMenuController : MonoBehaviour
 
     public void playGame()
     {
-        SceneManager.LoadScene("test");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
     public void options()
@@ -22,8 +22,7 @@ public class MainMenuController : MonoBehaviour
 
     public void back()
     {
-        mainMenu.SetActive(true);
-        optionsMenu.SetActive(false);
+        Application.Quit();
     }
 
     public void exitGame()
