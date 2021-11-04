@@ -11320,7 +11320,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1509221654}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 152.6, y: -13.9, z: 0}
+  m_LocalPosition: {x: 215, y: -11.95, z: 0}
   m_LocalScale: {x: 1.9152001, y: 4.4, z: 1}
   m_Children:
   - {fileID: 519420032}
@@ -11504,7 +11504,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 6.1, y: 7.86}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.1
 --- !u!212 &1532154959
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11561,8 +11561,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1532154957}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 264.41907, y: -10.901369, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 286.93, y: -12.312, z: 0}
+  m_LocalScale: {x: 0.23318677, y: 0.5272012, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 129
@@ -11579,8 +11579,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61bf67f94e5df5041a9c81a1993957c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MaxSpeed: 0
-  positions: []
+  m_MaxSpeed: 7
+  positions:
+  - {x: 211.29, y: -11.9, z: 0}
+  - {x: 287.38, y: -11.99, z: 0}
 --- !u!50 &1532154962
 Rigidbody2D:
   serializedVersion: 4
@@ -11600,8 +11602,8 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  m_CollisionDetection: 1
+  m_Constraints: 3
 --- !u!1 &1542696779
 GameObject:
   m_ObjectHideFlags: 0
