@@ -704,8 +704,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 47354201}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 269.92, y: -16.6, z: 0}
-  m_LocalScale: {x: 4, y: 1.927, z: 1}
+  m_LocalPosition: {x: 269.634, y: -16.612, z: 0}
+  m_LocalScale: {x: 4.056, y: 1.936635, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 37
@@ -6052,7 +6052,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 8.65, y: 8.1}
+  m_Size: {x: 6, y: 8}
   m_EdgeRadius: 0
 --- !u!212 &923754235
 SpriteRenderer:
@@ -6110,7 +6110,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 923754233}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 171.773, y: -13.908, z: 0}
+  m_LocalPosition: {x: 172.1, y: -13.908, z: 0}
   m_LocalScale: {x: 0.26172033, y: 0.51052606, z: 1.0092899}
   m_Children: []
   m_Father: {fileID: 0}
@@ -6130,8 +6130,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_MaxSpeed: 5
   positions:
-  - {x: 149.42, y: -13.38, z: 0}
-  - {x: 171.76, y: -13.38, z: 0}
+  - {x: 148.64, y: -13.908, z: 0}
+  - {x: 172.1, y: -13.908, z: 0}
 --- !u!50 &923754238
 Rigidbody2D:
   serializedVersion: 4
@@ -6837,7 +6837,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -2
   m_Sprite: {fileID: 21300000, guid: 7f273d863484d2142b4f6006d72873de, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9944,7 +9944,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -6
+  m_SortingOrder: -7
   m_Sprite: {fileID: 21300000, guid: 7f273d863484d2142b4f6006d72873de, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11320,7 +11320,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1509221654}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 215, y: -11.95, z: 0}
+  m_LocalPosition: {x: -16.8, y: -11.95, z: 0}
   m_LocalScale: {x: 1.9152001, y: 4.4, z: 1}
   m_Children:
   - {fileID: 519420032}
@@ -11469,9 +11469,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1532154960}
   - component: {fileID: 1532154959}
-  - component: {fileID: 1532154958}
   - component: {fileID: 1532154962}
   - component: {fileID: 1532154961}
+  - component: {fileID: 1532154958}
   m_Layer: 0
   m_Name: ChickenClarke_fixed
   m_TagString: Enemy
@@ -11503,8 +11503,8 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 6.1, y: 7.86}
-  m_EdgeRadius: 0.1
+  m_Size: {x: 4.8, y: 7}
+  m_EdgeRadius: 0
 --- !u!212 &1532154959
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11561,7 +11561,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1532154957}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 286.93, y: -12.312, z: 0}
+  m_LocalPosition: {x: 210.62, y: -12.49, z: 0}
   m_LocalScale: {x: 0.23318677, y: 0.5272012, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -11581,8 +11581,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_MaxSpeed: 7
   positions:
-  - {x: 211.29, y: -11.9, z: 0}
-  - {x: 287.38, y: -11.99, z: 0}
+  - {x: 210.62, y: -12.49, z: 0}
+  - {x: 286.93, y: -12.49, z: 0}
 --- !u!50 &1532154962
 Rigidbody2D:
   serializedVersion: 4
