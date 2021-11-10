@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class moveScript : MonoBehaviour
 {
+    
     public float MovementSpeed = 12;
     public float JumpForce = 70;
 
@@ -23,4 +24,5 @@ public class moveScript : MonoBehaviour
             _rigidbody.AddForce(new Vector2(0, JumpForce), ForceMode2D.Impulse);
         }
     }
+    
 }
