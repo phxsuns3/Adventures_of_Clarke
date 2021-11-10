@@ -52,6 +52,7 @@ public class Enemy : MonoBehaviour
     {
         SceneManager.LoadScene("GameOver");
     }
+    
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (canAttack == true)
@@ -63,6 +64,7 @@ public class Enemy : MonoBehaviour
             }
         }
     }
+    
     public void CollisionEnter(string colliderName, GameObject other)
     {
         if (colliderName == "Sight" && other.tag == "Player")

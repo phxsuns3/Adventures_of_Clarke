@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using static System.Console;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class moveScript : MonoBehaviour
 {
@@ -24,5 +25,16 @@ public class moveScript : MonoBehaviour
             _rigidbody.AddForce(new Vector2(0, JumpForce), ForceMode2D.Impulse);
         }
     }
-    
+    void WinGame()
+    {
+        SceneManager.LoadScene("Winscreen");
+    }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Finish"))
+        {
+           
+            WinGame();
+        }
+    }
 }
